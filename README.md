@@ -13,7 +13,7 @@ $ ./shellcode-aes --do=enc --file=shellcode -key=1234567812345678
 untuk details
  ```sh
  $ ./shellcode-aes -h
-Usage of ./aes-shellcode:
+Usage of ./shellcode-aes:
   -do string
     	example --do=enc or --do=dec (default "enc")
   -file string
